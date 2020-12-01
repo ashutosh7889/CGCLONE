@@ -1,20 +1,20 @@
 {
   "files": {
     "main.css": "/CGCLONE/static/css/main.6dea0f05.chunk.css",
-    "main.js": "/CGCLONE/static/js/main.f67db418.chunk.js",
-    "main.js.map": "/CGCLONE/static/js/main.f67db418.chunk.js.map",
+    "main.js": "/CGCLONE/static/js/main.0c036109.chunk.js",
+    "main.js.map": "/CGCLONE/static/js/main.0c036109.chunk.js.map",
     "runtime-main.js": "/CGCLONE/static/js/runtime-main.87b357fc.js",
     "runtime-main.js.map": "/CGCLONE/static/js/runtime-main.87b357fc.js.map",
-    "static/js/2.501a439a.chunk.js": "/CGCLONE/static/js/2.501a439a.chunk.js",
-    "static/js/2.501a439a.chunk.js.map": "/CGCLONE/static/js/2.501a439a.chunk.js.map",
+    "static/js/2.60595398.chunk.js": "/CGCLONE/static/js/2.60595398.chunk.js",
+    "static/js/2.60595398.chunk.js.map": "/CGCLONE/static/js/2.60595398.chunk.js.map",
     "index.html": "/CGCLONE/index.html",
     "static/css/main.6dea0f05.chunk.css.map": "/CGCLONE/static/css/main.6dea0f05.chunk.css.map",
-    "static/js/2.501a439a.chunk.js.LICENSE.txt": "/CGCLONE/static/js/2.501a439a.chunk.js.LICENSE.txt"
+    "static/js/2.60595398.chunk.js.LICENSE.txt": "/CGCLONE/static/js/2.60595398.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.87b357fc.js",
-    "static/js/2.501a439a.chunk.js",
+    "static/js/2.60595398.chunk.js",
     "static/css/main.6dea0f05.chunk.css",
-    "static/js/main.f67db418.chunk.js"
+    "static/js/main.0c036109.chunk.js"
   ]
 }

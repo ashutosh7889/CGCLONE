@@ -6,7 +6,6 @@ const App = () => {
   return (
     <>
       <Home />
-      <h1> Welcome to CareerGrads</h1>
     </>
   );
 }

@@ -1,5 +1,5 @@
 import React from "react";
-import { Switch, Route } from "react-router-dom";
+import { Switch, Route, Redirect } from "react-router-dom";
 import Home from "./Home";
 import Courses from "./Courses";
 import Tutorials from "./Tutorials";
@@ -18,6 +18,7 @@ const App = () => {
       <Route exact path="/internship" component={Internship} />
       <Route exact path="/blog" component={Blog} />
       <Route exact path="/contact" component={Contact} />
+      <Redirect to="/" />
     </Switch>
     </>
   );

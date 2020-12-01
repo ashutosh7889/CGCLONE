@@ -1,2 +1,0 @@
-(this.webpackJsonpcareergrads=this.webpackJsonpcareergrads||[]).push([[0],{17:function(e,t,n){},23:function(e,t,n){"use strict";n.r(t);var r=n(1),c=(n(0),n(9)),s=n.n(c),j=(n(17),function(){return Object(r.jsx)(r.Fragment,{children:Object(r.jsx)("h1",{children:" Welcome to HomePage"})})}),a=function(){return Object(r.jsx)(r.Fragment,{children:Object(r.jsx)(j,{})})},i=n(11);s.a.render(Object(r.jsx)(r.Fragment,{children:Object(r.jsx)(i.a,{children:Object(r.jsx)(a,{})})}),document.getElementById("root"))}},[[23,1,2]]]);
-//# sourceMappingURL=main.8ac9c818.chunk.js.map

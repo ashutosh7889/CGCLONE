@@ -1,9 +1,11 @@
+import React from "react";
+import Home from "./Home";
+// import './App.css';
 
-import './App.css';
-
-function App() {
+const App = () => {
   return (
     <>
+      <Home />
       <h1> Welcome to CareerGrads</h1>
     </>
   );

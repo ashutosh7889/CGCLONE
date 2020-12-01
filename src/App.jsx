@@ -12,12 +12,12 @@ const App = () => {
   return (
     <>
     <Switch>
-      <Route path="/" component={Home} />
-      <Route path="/courses" component={Courses} />
-      <Route path="/tutorials" component={Tutorials} />
-      <Route path="/internship" component={Internship} />
-      <Route path="/blog" component={Blog} />
-      <Route path="/contact" component={Contact} />
+      <Route exact path="/" component={Home} />
+      <Route exact path="/courses" component={Courses} />
+      <Route exact path="/tutorials" component={Tutorials} />
+      <Route exact path="/internship" component={Internship} />
+      <Route exact path="/blog" component={Blog} />
+      <Route exact path="/contact" component={Contact} />
     </Switch>
     </>
   );

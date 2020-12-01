@@ -1,2 +1,0 @@
-(this.webpackJsonpcareergrads=this.webpackJsonpcareergrads||[]).push([[0],{17:function(e,r,n){},18:function(e,r,n){},24:function(e,r,n){"use strict";n.r(r);var t=n(2),c=(n(0),n(9)),s=n.n(c);n(17),n(18);var a=function(){return Object(t.jsx)(t.Fragment,{children:Object(t.jsx)("h1",{children:" Welcome to CareerGrads"})})},i=n(11);s.a.render(Object(t.jsx)(t.Fragment,{children:Object(t.jsx)(i.a,{children:Object(t.jsx)(a,{})})}),document.getElementById("root"))}},[[24,1,2]]]);
-//# sourceMappingURL=main.fbf4eae2.chunk.js.map

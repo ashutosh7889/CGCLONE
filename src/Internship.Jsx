@@ -4,7 +4,7 @@ import React from "react";
 const Internship = () => {
   return (
     <>
-      <h1> Welcome to Internship</h1>
+      <h1>Welcome to Internship</h1>
     </>
   );
 }

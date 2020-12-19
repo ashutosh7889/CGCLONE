@@ -8,6 +8,7 @@ import Contact from "./Contact";
 import Navbar from "./Navbar";
 import LiveCourses from "./LiveCourses";
 import IndividualCourses from "./IndividulaCourses";
+// import Footer from "./Components/Footer/Footer";
 // import './App.css';
 
 const App = () => {
@@ -24,6 +25,7 @@ const App = () => {
       <Route exact path="/contact" component={Contact} />
       <Redirect to="/" />
     </Switch>
+    {/* <Footer /> */}
     </>
   );
 }

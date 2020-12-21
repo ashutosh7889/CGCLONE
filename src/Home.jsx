@@ -1,10 +1,17 @@
 import React from "react";
+import Banner from "./Components/Banner/Banner";
+import IMG from './images/course_1.jpg';
 // import './App.css';
 
 const Home = () => {
   return (
     <>
-      <h1> Welcome to HomePage</h1>
+      <Banner 
+      name="Learn & Implement"
+      para="Access in-demand Training mentored by Industrial Experts"
+      imgsrc={IMG}
+      visit="/blog"
+      btname="Start Preparation"/>
     </>
   );
 }
